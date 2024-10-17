@@ -1,2 +1,3 @@
-FROM elastic/elasticsearch:7.17.24
+FROM elastic/elasticsearch:8.15.2
+
 
