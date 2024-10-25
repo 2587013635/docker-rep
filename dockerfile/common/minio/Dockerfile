@@ -1,1 +1,1 @@
-FROM minio:latest
+FROM minio
